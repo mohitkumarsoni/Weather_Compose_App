@@ -23,3 +23,9 @@
 🌟 Location-Based Forecast: Integrated geolocation services to provide location-specific weather forecasts for enhanced user convenience.
 
 🌟 Responsive Design: Ensured a responsive and adaptive design to deliver a consistent experience across various screen sizes and orientations.
+
+
+
+<img src="https://github.com/mohitkumarsoni/Weather_Compose_App/assets/108524949/34bb481c-cc3d-4cf9-a720-70837646fe69" width="200" /> 
+<img src="https://github.com/mohitkumarsoni/Weather_Compose_App/assets/108524949/81e171c4-8621-4c6b-936d-35cf8b4b0c0b" width="200" /> 
+<img src="https://github.com/mohitkumarsoni/Weather_Compose_App/assets/108524949/137625a9-6938-4d51-a66d-256702a528c0" width="200" /> 
